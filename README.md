@@ -69,8 +69,8 @@ Key steps include:
 ```
 customer-segmentation-ml
 │
-├── Mall_Customers.csv
 ├── CustomerSegmentationUsingKMeans.ipynb
+├── Mall_Customers.csv
 └── README.md
 ```
 
